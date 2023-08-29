@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevinNunezz
-- 👀 I’m interested in learn about the differents programation tools and I would like to explore more developer's word  
+- 👀 I’m interested in learn about differents programation tools and I would like to explore further the developer's word  
 - 🌱 I’m currently learning full stack web developer and Microsoft Azure certifications 
 
 
